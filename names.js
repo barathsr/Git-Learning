@@ -1,4 +1,4 @@
-console.log("Barath, Software Engineer");
+console.log("Barath,intern");
 console.log("Jayakumar, Intern");
 console.log("Balaji");
 console.log("Jagajeet");
